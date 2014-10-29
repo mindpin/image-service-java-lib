@@ -1,4 +1,4 @@
-package com.mindpin;
+package com.mindpin.java.image4ye;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
@@ -6,8 +6,6 @@ import junit.framework.TestSuite;
 
 import java.io.File;
 import java.io.IOException;
-import java.net.URI;
-import java.net.URISyntaxException;
 import java.net.URL;
 
 /**

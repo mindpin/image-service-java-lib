@@ -1,4 +1,4 @@
-package com.mindpin;
+package com.mindpin.java.image4ye;
 
 import com.github.kevinsawicki.http.HttpRequest;
 import com.google.gson.Gson;
